@@ -6,7 +6,10 @@ import Constants from 'expo-constants';
 export default function App() {
   return (
     <View style={styles.container}>
+      <View>
       <Text></Text>
+      
+      </View>
     </View>
   );
 }
