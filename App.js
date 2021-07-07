@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style = {styles.profile}>
-      
+      <Image />
       </View>
 
       <View style = {styles.details}></View>
