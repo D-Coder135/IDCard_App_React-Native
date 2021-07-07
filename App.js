@@ -6,9 +6,9 @@ import Constants from 'expo-constants';
 export default function App() {
   return (
     <View style={styles.container}>
-      <View>
+      <View style = {styles.profile}>
       <Text></Text>
-      
+
       </View>
     </View>
   );
