@@ -24,13 +24,13 @@ const styles = StyleSheet.create({
 
   profile: {
     flex: .4,
-    backgroundColor: 'black',
+    backgroundColor: 'red',
     alignItems: 'center'
   },
   
   details: {
     flex: .6,
-    backgroundColor: 'red',
+    backgroundColor: 'black',
   },
 
   pic: {
