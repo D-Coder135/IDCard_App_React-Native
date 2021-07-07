@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style = {styles.profile}>
-      <Image style = {style.pic}/>
+      <Image style = {styles.pic} source = {require('./assets/pic.png')}/>
       </View>
 
       <View style = {styles.details}></View>
