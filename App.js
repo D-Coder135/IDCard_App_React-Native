@@ -27,5 +27,11 @@ const styles = StyleSheet.create({
   details: {
     flex: .6,
     backgroundColor: 'red',
+  },
+
+  pic: {
+    width: 130,
+    height: 130,
+    borderRadius: 100,
   }
 });
