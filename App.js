@@ -27,8 +27,8 @@ export default function App() {
           <Text style = {{color: 'red', fontSize: 20 }}>Java, Kotlin, Flutter, React-Native</Text>
         </View>
         <View style = {styles.items}>
-        <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>Name:</Text>
-          <Text style = {{color: 'red', fontSize: 20 }}>Devansh Kumar Shukla</Text>
+        <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>Unique ID:</Text>
+          <Text style = {{color: 'red', fontSize: 20 }}>191500255</Text>
         </View>
       </View>
     </View>
