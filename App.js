@@ -10,6 +10,8 @@ export default function App() {
       <Text></Text>
 
       </View>
+
+      <View></View>
     </View>
   );
 }
