@@ -18,4 +18,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
+  profile: {
+    flex: .4,
+    backgroundColor: 'black'
+  },
+  
 });
