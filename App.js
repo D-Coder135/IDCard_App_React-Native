@@ -24,4 +24,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'black'
   },
   
+  details: {
+    flex: .6,
+    backgroundColor: 'red',
+  }
 });
