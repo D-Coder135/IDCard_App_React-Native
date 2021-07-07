@@ -40,6 +40,6 @@ const styles = StyleSheet.create({
     borderBottomColor: 'white',
     flexDirection: 'row',
     alignItems: 'center',
-    
+    paddingHorizontal: 20,
   }
 });
