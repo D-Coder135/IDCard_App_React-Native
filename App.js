@@ -13,7 +13,8 @@ export default function App() {
       <Text style = {{marginTop: 10, marginBottom: 20, fontSize: 20, fontFamily: 'sans-serif'}}>On A Path => Developer!</Text>
       </View>
 
-      <View style = {styles.details}></View>
+      <View style = {styles.details}>
+      </View>
     </View>
   );
 }
@@ -43,7 +44,7 @@ const styles = StyleSheet.create({
 
   items: {
     borderRightWidth: 2,
-    borderBottomColor: 'white',
+    borderBottomColor: 'red',
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 20,
