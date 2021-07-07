@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   profile: {
     flex: .4,
     backgroundColor: 'black',
-    alignItems: center
+    alignItems: 'center'
   },
   
   details: {
