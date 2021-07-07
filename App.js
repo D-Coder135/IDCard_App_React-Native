@@ -19,8 +19,8 @@ export default function App() {
           <Text style = {{color: 'red', fontSize: 20 }}>Devansh Kumar Shukla</Text>
         </View>
         <View style = {styles.items}>
-        <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>Name:</Text>
-          <Text style = {{color: 'red', fontSize: 20 }}>Devansh Kumar Shukla</Text>
+        <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>GitHub Username:</Text>
+          <Text style = {{color: 'red', fontSize: 20 }}>D-Coder135</Text>
         </View>
         <View style = {styles.items}>
         <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>Name:</Text>
