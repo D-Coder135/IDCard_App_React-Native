@@ -9,6 +9,7 @@ export default function App() {
       <View style = {styles.profile}>
         <Text style = {{marginTop: 20, marginBottom: 20, fontSize: 28, fontWeight: 'bold', fontFamily: 'aerial'}}>MI Card</Text>
       <Image style = {styles.pic} source = {require('./assets/pic.png')}/>
+      <Text style = {{marginTop: 20, fontSize: 22, fontFamily: 'sans-serif'}}>Student</Text>
       <Text style = {{marginTop: 20, marginBottom: 20, fontSize: 22, fontFamily: 'sans-serif'}}>On A Path => Developer</Text>
       </View>
 
