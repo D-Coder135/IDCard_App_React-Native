@@ -20,7 +20,8 @@ const styles = StyleSheet.create({
 
   profile: {
     flex: .4,
-    backgroundColor: 'black'
+    backgroundColor: 'black',
+    alignItems: center
   },
   
   details: {
