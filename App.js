@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style = {styles.profile}>
-        <Text style = {{marginTop: 20, marginBottom: 20, fontSize: 28, fontWeight: 'bold', fontFamily: 'aerial'}}></Text>
+        <Text style = {{marginTop: 20, marginBottom: 20, fontSize: 28, fontWeight: 'bold', fontFamily: 'aerial'}}>MI Card</Text>
       <Image style = {styles.pic} source = {require('./assets/pic.png')}/>
       </View>
 
