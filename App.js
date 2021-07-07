@@ -39,5 +39,7 @@ const styles = StyleSheet.create({
     borderRightWidth: 2,
     borderBottomColor: 'white',
     flexDirection: 'row',
+    alignItems: 'center',
+    
   }
 });
