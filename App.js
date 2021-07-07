@@ -15,7 +15,7 @@ export default function App() {
 
       <View style = {styles.details}>
         <View style = {styles.items}>
-          <Text>Name</Text>
+          <Text style = {{color: 'red', flex: 0.8, fontSize: 20, fontWeight: 'bold' }}>Name</Text>
         </View>
         <View style = {styles.items}></View>
         <View style = {styles.items}></View>
