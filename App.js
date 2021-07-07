@@ -14,7 +14,7 @@ export default function App() {
       </View>
 
       <View style = {styles.details}>
-        <View></View>
+        <View style = {styles.items}></View>
       </View>
     </View>
   );
